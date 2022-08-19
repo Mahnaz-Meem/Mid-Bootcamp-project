@@ -21,6 +21,8 @@ In the python codes, Ihave tried to explore the data and tried to find if there 
 I have plotted each of the numerical variables against all the crop choices to find out according to this dataset for a given value which crop to choose.
 After that I built 4 different models to represent the data. 3 of them were with Logistic Regression and one of them were with KNN. However, KNN gave the highest accuracy for this.
 
+You can check the Trello Board of the project that I used [here](https://trello.com/b/1asVZu9m/project).
+
 In future, I would like to explore more sophisticated and practical models.
 
 ## Technologies used
@@ -34,4 +36,4 @@ In future, I would like to explore more sophisticated and practical models.
 
 Please click on the link to open and visualize the Tableau stories.
 
-[Link👉🏼](https://public.tableau.com/app/profile/mahnaz.sarker.meem/viz/midbootcamp_16607340359730/Whichcroptoplant)
+[Link:point_left:](https://public.tableau.com/app/profile/mahnaz.sarker.meem/viz/midbootcamp_16607340359730/Whichcroptoplant)
