@@ -17,11 +17,10 @@ To know more about the the dataset and other approaches, please check [here.](ht
 
 Thus, this only reflects **part of the reality in reference to crops produced in the world.** For sure there exists more data from different researchers, which could be achieved by more research on this topic. If so, there could be more avenues to explore.
 
-In the python codes, Ihave tried to explore the data and tried to find if there is any correlation. Since K and P has more correlation, I have tried to explore those with different plotting.
-I have plotted each of the numerical variables against all the crop choices to find out according to this dataset for a given value which crop to choose.
-After that I built 4 different models to represent the data. 3 of them were with Logistic Regression and one of them were with KNN. However, KNN gave the highest accuracy for this.
+In the python codes, I have tried to explore the data and tried to find if there is any correlation. Since K and P have more correlation, I have tried to explore those with different plotting.
+I have plotted each of the numerical variables against all the crop choices to find out according to this dataset for a given value which crop to choose. A farmer can choose which crop is optimum in his/her soil to plant depending on that information.
 
-You can check the Trello Board of the project that I used [here](https://trello.com/b/1asVZu9m/project).
+After that I built 4 different models to represent the data. 3 of them were with Logistic Regression and one of them were with KNN. However, KNN gave the highest accuracy for this.
 
 In future, I would like to explore more sophisticated and practical models.
 
@@ -36,4 +35,4 @@ In future, I would like to explore more sophisticated and practical models.
 
 Please click on the link to open and visualize the Tableau stories.
 
-[Link:point_left:](https://public.tableau.com/app/profile/mahnaz.sarker.meem/viz/midbootcamp_16607340359730/Whichcroptoplant)
+[Link](https://public.tableau.com/app/profile/mahnaz.sarker.meem/viz/midbootcamp_16607340359730/Whichcroptoplant)
