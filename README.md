@@ -2,7 +2,7 @@
 - 📊 Mid Bootcamp Project
 - 🗓 Date: 19 August 2022
 - 👩🏽‍💻 Created by: Mahnaz Sarker Meem 👋🏼
-- 👉🏼  [Check it out here](https://public.tableau.com/app/profile/mahnaz.sarker.meem/viz/midbootcamp_16607340359730/Whichcroptoplant) 👈🏼
+- 👉🏼  [Check it out here](https://public.tableau.com/app/profile/mahnaz.sarker.meem/viz/Cropchoiceoptimization/Whichcroptoplant) 👈🏼
 
 ## Table of Contents
 - [About](#about)
